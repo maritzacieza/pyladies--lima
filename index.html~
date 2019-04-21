@@ -35,10 +35,10 @@
       </div>
       <div class="navbar-collapse collapse">
         <ul class="nav navbar-nav" data-0="margin-top:20px;" data-300="margin-top:5px;">
-          <li class="active"><a href="index.html">Home</a></li>
-          <li><a href="#section-about">Sobre</a></li>
-          <li><a href="#section-organization">Organização</a></li>
-          <li><a href="#section-works">Galeria</a></li>
+          <li class="active"><a href="index.html">Nosotras</a></li>
+          <li><a href="#section-about">Noticias</a></li>
+          <li><a href="#section-organization">Recursos</a></li>
+          <li><a href="#section-works">Eventos</a></li>
           <li><a href="#section-contact">Contato</a></li>
         </ul>
       </div><!--/.navbar-collapse -->
@@ -54,7 +54,7 @@
 
             <div class="align-center header-phrase">
               <img src="img\logo.png">
-              <h2 class="slogan">PyLadies Teresina</h2>
+              <h2 class="slogan">PyLadies Lima</h2>
               <p class="write-first typewriter">
                 Apoiando e empoderando mulheres na tecnologia do Piauí
               </p>
